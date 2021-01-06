@@ -1,0 +1,146 @@
+html,
+
+body,
+
+header,
+
+.view {
+
+    height: 100%;
+
+}
+
+
+
+@media (max-width: 740px) {
+
+    html,
+
+    body,
+
+    header,
+
+    .view {
+
+        height: 100vh;
+
+    }
+
+}
+
+.btn.btn-primary {
+    background-color: #342f5f !important;
+    color: white !important;
+}
+.btn.btn {
+    margin: 1.83rem;
+}
+.top-nav-collapse {
+
+    background-color: #78909c !important;
+
+}
+
+
+
+.navbar:not(.top-nav-collapse) {
+
+    background: transparent !important;
+
+}
+
+
+
+@media (max-width: 991px) {
+
+    .navbar:not(.top-nav-collapse) {
+
+        background: #78909c !important;
+
+    }
+
+}
+
+
+
+h1 {
+
+    letter-spacing: 8px;
+
+}
+
+
+
+h5 {
+
+    letter-spacing: 3px;
+
+}
+
+
+
+.hr-light {
+
+    border-top: 3px solid #fff;
+
+    width: 80px;
+
+}
+
+
+
+.presentation {
+
+    margin-top: 200px !important;
+
+}
+
+.skills{
+
+    margin-top: 50px;
+
+}
+
+.about{
+
+    margin-top: 50px;
+
+}
+
+.info{
+
+    margin-top: 20px;
+
+}
+.footer {
+
+    padding-top: 60px;
+
+    padding-bottom: 60px;
+
+    text-align: center;
+
+    background-color: #f1f1f1;
+
+}
+
+
+
+.container{
+
+    margin-bottom: 50px;
+
+}
+.footer-title {
+
+    display: inline-block;
+
+    margin-bottom: 6px;
+
+    font-size: 22px;
+
+    font-weight: 700;
+
+    color: #111;
+
+}
